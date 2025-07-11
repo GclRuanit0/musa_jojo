@@ -1,0 +1,31 @@
+.center{
+
+    align-items: center;
+text-align: left;
+text-align: right;
+
+}
+
+header{
+
+background-color: rgb(214, 214, 214);
+text-align: center;
+
+}
+
+body{
+
+color: rgb(184, 102, 224);
+background-color: rgb(240, 224, 248);
+}
+
+h1{
+
+    text-align: center;
+
+}
+h2{
+
+    text-align: center;
+    
+}
